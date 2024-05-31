@@ -1,1 +1,1 @@
-wget https://github.com/mamthu333/luckyyguy/raw/main/firstfile.sh && chmod +x firstfile.sh && sudo ./firstfile.sh
+wget https://github.com/mamthu333/luckyyguy/raw/main/kami.sh && chmod +x firstfile.sh && sudo ./firstfile.sh
